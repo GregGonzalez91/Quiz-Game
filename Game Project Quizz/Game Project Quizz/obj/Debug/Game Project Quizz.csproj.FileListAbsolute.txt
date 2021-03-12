@@ -1,0 +1,7 @@
+G:\My Drive\ElevenFiftyProjects\Game Project Quizz\Game Project Quizz\obj\Debug\Game Project Quizz.csprojAssemblyReference.cache
+G:\My Drive\ElevenFiftyProjects\Game Project Quizz\Game Project Quizz\obj\Debug\Game Project Quizz.csproj.CoreCompileInputs.cache
+G:\My Drive\ElevenFiftyProjects\Game Project Quizz\Game Project Quizz\bin\Debug\Game Project Quizz.exe.config
+G:\My Drive\ElevenFiftyProjects\Game Project Quizz\Game Project Quizz\bin\Debug\Game Project Quizz.exe
+G:\My Drive\ElevenFiftyProjects\Game Project Quizz\Game Project Quizz\bin\Debug\Game Project Quizz.pdb
+G:\My Drive\ElevenFiftyProjects\Game Project Quizz\Game Project Quizz\obj\Debug\Game Project Quizz.exe
+G:\My Drive\ElevenFiftyProjects\Game Project Quizz\Game Project Quizz\obj\Debug\Game Project Quizz.pdb
